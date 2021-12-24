@@ -61,6 +61,10 @@
 - [Solana Swift](https://github.com/ajamaica/Solana.Swift)
 - [Solana Kotlin](https://github.com/ajamaica/Solana.kt)
 
+#### API Docs
+- [Solana Web3js Docs](https://solana-labs.github.io/solana-web3.js)
+- [Solana Wallet Adopter Docs](https://solana-labs.github.io/wallet-adapter/)
+
 #### Tutorials & Projects
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
