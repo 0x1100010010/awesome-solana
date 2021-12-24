@@ -28,7 +28,7 @@
 - [Twitter](https://twitter.com/solana)
 - [Meetups](https://www.meetup.com/topics/solana)
 - [Solana Community](https://solana.com/community#)
-- [Solana Ecosystem](https://solana.com/community#) Projects built on solana.
+- [Solana Ecosystem](https://solana.com/community#) 
 - [Solana Termanologies](https://docs.solana.com/terminology)
 - [Solana Program Library](https://spl.solana.com/)
 
