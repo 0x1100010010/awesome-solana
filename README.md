@@ -19,7 +19,7 @@
 - [Website](https://solana.com)
 - [Developer Discord](https://discord.com/invite/pquxPsq)
 - [Solhack Discord](https://discord.com/invite/9NsCEDAxFa)
-- [Docs](https://docs.solana.com)
+- [Official Documentation](https://docs.solana.com) 
 - [Company Github](https://github.com/solana-labs)
 - [Solana Forum](https://forums.solana.com)
 - [Podcast](https://podcast.solana.com/)
@@ -30,6 +30,7 @@
 - [Solana Community](https://solana.com/community#)
 - [Solana Ecosystem](https://solana.com/community#) Projects built on solana.
 - [Solana Termanologies](https://docs.solana.com/terminology)
+- [Solana Program Library](https://spl.solana.com/)
 
 #### Podcast appearances
 - [Coingecko Ep. 20](https://podcast.coingecko.com/719703/5526409-building-the-fastest-lowest-latency-blockchain-with-anatoly-yakovenko-founder-and-ceo-at-solana-ep-20?utm_source=twitter&utm_campaign=Podcast%2B&utm_medium=social&utm_term=20&0=)
@@ -65,9 +66,24 @@
 - [Solana Web3js Docs](https://solana-labs.github.io/solana-web3.js)
 - [Solana Wallet Adopter Docs](https://solana-labs.github.io/wallet-adapter/)
 
-#### Tutorials & Projects
+#### Tutorials & Projects (SPL)
+- [Introduction to Anchor](https://youtu.be/725ddOvfWjk)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
+- [Learn How To Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/) 
 
+#### NFTs
+- [Metaplex Official Site](https://www.metaplex.com/) Solana NFT standard
+- [Metaplex Github](https://github.com/metaplex-foundation/metaplex)
+- [Metaplex Docs](https://docs.metaplex.com/) 
+- [Metaplex Program Library](https://github.com/metaplex-foundation/metaplex-program-library)
+- [Metaplex Community Docs](https://docs.metaplex.com/community) A list of very useful NFT resources on Solana.
+
+#### Community Resources (METAPLEX)
+- [Solana and Metaplex FAQ](https://hackmd.io/@archaeopteryx/By4bpbA4F) Very detailed index of the community posts and tutorials. Includes FAQs.
+- [A Starter Kit for New Solana Developer](https://hackmd.io/@ironaddicteddog/solana-starter-kit)
+- [Metaplex Candy Machine](https://hackmd.io/@levicook/HJcDneEWF)
+- [Beginer Guide: Generative NFT Series on Solana](https://hackmd.io/@8LSEewFFQ2OwXMjUKZP-pA/BJYh8FU7F)
+- [Solana NFTs: Everything you need](https://hackmd.io/@hnbl/hector)
