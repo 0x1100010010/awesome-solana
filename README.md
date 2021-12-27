@@ -67,8 +67,8 @@
 - [Solana Wallet Adopter Docs](https://solana-labs.github.io/wallet-adapter/)
 
 #### Anchor docs
-- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
-- [Anchor Lang Create Docs](https://docs.rs/anchor-lang/0.19.0/anchor_lang/)
+- [Anchor Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
+- [Anchor-lang Create Docs](https://docs.rs/anchor-lang/0.19.0/anchor_lang/)
 
 #### Tutorials & Projects (SPL)
 - [Introduction to Anchor](https://youtu.be/725ddOvfWjk)
