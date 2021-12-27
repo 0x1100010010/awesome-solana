@@ -66,6 +66,10 @@
 - [Solana Web3js Docs](https://solana-labs.github.io/solana-web3.js)
 - [Solana Wallet Adopter Docs](https://solana-labs.github.io/wallet-adapter/)
 
+#### Anchor docs
+- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+- [Anchor Lang Create Docs](https://docs.rs/anchor-lang/0.19.0/anchor_lang/)
+
 #### Tutorials & Projects (SPL)
 - [Introduction to Anchor](https://youtu.be/725ddOvfWjk)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
