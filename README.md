@@ -68,7 +68,7 @@
 
 #### Anchor docs
 - [Anchor Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
-- [Anchor-lang Create Docs](https://docs.rs/anchor-lang/0.19.0/anchor_lang/)
+- [Anchor-lang Create Docs](https://docs.rs/anchor-lang/latest/anchor_lang/)
 
 #### Tutorials & Projects (SPL)
 - [Introduction to Anchor](https://youtu.be/725ddOvfWjk)
