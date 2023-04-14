@@ -50,6 +50,7 @@
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 - [Phantom Wallet](https://phantom.app/) Solana wallet extention with excelent development support.
+- [walletOS](https://www.pinestreetlabs.com/walletos/) An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
