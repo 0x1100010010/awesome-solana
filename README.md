@@ -50,6 +50,7 @@
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 - [Phantom Wallet](https://phantom.app/) Solana wallet extention with excelent development support.
+- [HostDeFi](https://hostdefi.com) free token safety scanner + keyless multi-chain REST API
 
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
